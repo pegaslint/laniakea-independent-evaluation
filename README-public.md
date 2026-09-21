@@ -34,7 +34,7 @@ It contains the main report, Appendices A–J, evidence notes, the evidence/chec
 
 Read [the Forum brief](synthesis/publication/forum-post.md).
 
-The two link placeholders remain pending until final hosting destinations are chosen. They are not active links. The brief does not replace the canonical report.
+The Forum brief contains commit-pinned links to the canonical full report, the public master evidence matrix, and the sanitized public release repository snapshot. The brief does not replace the canonical report.
 
 ## 6. Claim matrix
 

@@ -13,7 +13,7 @@ Plain-text revisions and freeze SHAs are evidence identifiers. They do not distr
 | Public path | Public role | Source category | As-is or derivative | Privacy treatment |
 |---|---|---|---|---|
 | `synthesis/publication/full-report-final.md` | Canonical report, embedded A–J and evidence notes | Frozen publication | As-is | Public-facing content; no acquisition metadata added |
-| `synthesis/publication/forum-post.md` | Reader-facing brief | Content-final publication derivative | As-is copy | Hosting placeholders retained |
+| `synthesis/publication/forum-post.md` | Reader-facing brief | Content-final publication derivative | As-is copy | Commit-pinned publication links inserted |
 
 ### Public controls/navigation — 2 files
 
