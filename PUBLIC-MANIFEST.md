@@ -2,7 +2,7 @@
 
 ## Release model
 
-This is a history-free, explicit-allowlist release of exactly **19 regular files**. The private validator repository is not distributed. No original Git history, objects, commit identity metadata, reflogs, branches, tags or remotes are included.
+This is a history-free, explicit-allowlist release of exactly **20 regular files**. The private validator repository is not distributed. No original Git history, objects, commit identity metadata, reflogs, branches, tags or remotes are included.
 
 Plain-text revisions and freeze SHAs are evidence identifiers. They do not distribute the corresponding Git objects. The full report remains the controlling publication; this manifest describes the minimized distribution, not the entire private evidence collection.
 
@@ -15,12 +15,13 @@ Plain-text revisions and freeze SHAs are evidence identifiers. They do not distr
 | `synthesis/publication/full-report-final.md` | Canonical report, embedded A–J and evidence notes | Frozen publication | As-is | Public-facing content; no acquisition metadata added |
 | `synthesis/publication/forum-post.md` | Reader-facing brief | Content-final publication derivative | As-is copy | Commit-pinned publication links inserted |
 
-### Public controls/navigation — 2 files
+### Public controls/navigation — 3 files
 
 | Public path | Public role | Source category | As-is or derivative | Privacy treatment |
 |---|---|---|---|---|
-| `README-public.md` | Navigation, schemas and distribution limits | New public navigation | New | No private identity, endpoint or workspace information |
+| `README.md` | Navigation, schemas and distribution limits | New public navigation | New | No private identity, endpoint or workspace information |
 | `PUBLIC-MANIFEST.md` | Exact allowlist and omission policy | New public navigation | New | Category-level omissions; no sensitive values |
+| `PUBLIC-EVIDENCE-CROSSWALK.md` | Evidence-note paths mapped to public reading locations | Public report/matrix/manifest navigation | New | No private source contents or acquisition metadata added |
 
 ### Public matrix derivative — 1 file
 

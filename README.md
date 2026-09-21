@@ -42,6 +42,10 @@ Read [the public claim matrix](synthesis/master-evidence-matrix.md).
 
 This is a public derivative of the frozen private matrix with obsolete drafting/staging language removed. No claim disposition or evidence-bearing matrix content was changed for publication. The derivation is recorded in the public manifest.
 
+## Public evidence crosswalk
+
+Look up claim IDs in the [public master evidence matrix](synthesis/master-evidence-matrix.md). Some evidence-note paths refer to modular or private source components that are not separately distributed. The [Public Evidence Crosswalk](PUBLIC-EVIDENCE-CROSSWALK.md) shows where their evaluated content can be inspected in this minimized public package.
+
 ## 7. Public technical evidence
 
 The package includes 14 normalized Ethereum Mainnet evidence records in `reports/2026-09-18-f438819/L3F-evidence/`: seven historical/current pairs.
