@@ -18,6 +18,8 @@ This post presents the principal results and the boundaries necessary to interpr
 
 The post moves from scope and principal findings to the Atlas, STL and C04/C05/C06 cases, then to unverified current claims, target design and limitations. Claim IDs identify the same selected statements throughout the evaluation; they are references, not scores.
 
+Claim IDs such as C04, C05 and C28 map directly to the public master evidence matrix, which records the selected proposition, evidence basis and ceiling, and final disposition for each evaluated unit. [LINK TO MASTER EVIDENCE MATRIX]
+
 The full report and supporting matrix provide the deeper traceability: methodology, phase and Atlas ledgers, provenance records, the C05 technical case, the C06 unresolved case, an artifact/checksum index and a terminology crosswalk. The appendix guide at the end identifies where to go next.
 
 ## Scope and method
@@ -227,7 +229,7 @@ The classification protects future propositions from being evaluated as though t
 
 The evaluation does not establish technical feasibility, design soundness or future adoption for this target population. It supplies no adoption recommendation. A proposal may be accurately characterized as target design while questions about how it could be implemented, whether it will be adopted and what governance formalization it would require remain outside the conclusion reached here.
 
-Historical and illustrative material is also distinct from target design. Six selected units retain documentary framing: C28, C49 and C53 are HISTORICAL; C50, C51 and C52 are EXAMPLE / ILLUSTRATIVE. Establishing a user story's deployment/admin prerequisites does not establish actual deployment or grants. An illustrative settlement sketch does not establish running settlement, and the C52 illustration does not resolve C09's separate current-instance assertion.
+Historical and illustrative material is also distinct from target design. Six selected units retain documentary framing: C28, C49 and C53 are HISTORICAL; C50, C51 and C52 are EXAMPLE / ILLUSTRATIVE. These IDs are claim rows in the public master evidence matrix, where readers can inspect their exact propositions and evidence ceilings. Establishing a user story's deployment/admin prerequisites does not establish actual deployment or grants. An illustrative settlement sketch does not establish running settlement, and the C52 illustration does not resolve C09's separate current-instance assertion.
 
 The distinction matters for later work. New implementation or formalization of a target would constitute a project change to evaluate against the frozen baseline. It would not retrospectively turn the snapshot's future classification into an implementation failure or erase the historical record. New evidence about an old current-state assertion is a different kind of reconsideration.
 
