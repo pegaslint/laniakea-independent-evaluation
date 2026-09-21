@@ -1,0 +1,15 @@
+RPC=configured-read-only-mainnet
+chainId=1
+block=25242585
+hash=0x3df6a06ce123333e4d84c014cecacd6034ec7bd8e82b6bc24be516beaee368fc
+timestamp_unix=1780558727
+timestamp_utc=2026-06-04T07:38:47.000Z
+hash_rechecked=unchanged
+target_utc=2026-06-04T07:38:57Z
+target_unix=1780558737
+successor_block=25242586
+successor_timestamp_unix=1780558739
+successor_timestamp_utc=2026-06-04T07:38:59Z
+successor_hash=0x5a80d6c5d46592ad33df8eeb7d37e2948def75414d16e9f316fde70701b56ad5
+successor_parent_hash=0x3df6a06ce123333e4d84c014cecacd6034ec7bd8e82b6bc24be516beaee368fc
+method=binary search of block timestamps, followed by boundary metadata

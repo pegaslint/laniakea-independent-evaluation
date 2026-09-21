@@ -1,0 +1,8 @@
+RPC=configured-read-only-mainnet
+chainId=1
+block=26007670
+hash=0x815c03207bc7c58958ae0cef5af8d9c10a9a334dd3e58ff8c1b9129a773dee6b
+timestamp_unix=1789773995
+timestamp_utc=2026-09-18T23:26:35.000Z
+hash_rechecked=unchanged
+method=one initial latest-block capture; all subsequent state queries fixed to this number
