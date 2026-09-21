@@ -18,7 +18,7 @@ This post presents the principal results and the boundaries necessary to interpr
 
 The post moves from scope and principal findings to the Atlas, STL and C04/C05/C06 cases, then to unverified current claims, target design and limitations. Claim IDs identify the same selected statements throughout the evaluation; they are references, not scores.
 
-Claim IDs such as C04, C05 and C28 map directly to the public master evidence matrix, which records the selected proposition, evidence basis and ceiling, and final disposition for each evaluated unit. https://github.com/pegaslint/laniakea-independent-evaluation/blob/76142994a1f83f03db1dfd540d08fff7b4c64b87/synthesis/master-evidence-matrix.md
+Claim IDs such as C04, C05 and C28 map directly to the public master evidence matrix, which records the selected proposition, evidence basis and ceiling, and final disposition for each evaluated unit. https://github.com/pegaslint/laniakea-independent-evaluation/blob/fba1bc3cda554b5e96ea04e73a770ff6601a93b1/synthesis/master-evidence-matrix.md
 
 The full report and supporting matrix provide the deeper traceability: methodology, phase and Atlas ledgers, provenance records, the C05 technical case, the C06 unresolved case, an artifact/checksum index and a terminology crosswalk. The appendix guide at the end identifies where to go next.
 
@@ -283,8 +283,8 @@ Appendices A/B cover baseline and method; C preserves the phase ledger; D record
 
 Exact repository paths remain available in the full report for technical traceability. The package distinguishes source material, historical reports, retained artifacts and publication lineage rather than treating their presence as independent proof of every underlying claim. The publication links below are commit-pinned to the sanitized public release snapshot.
 
-https://github.com/pegaslint/laniakea-independent-evaluation/blob/76142994a1f83f03db1dfd540d08fff7b4c64b87/synthesis/publication/full-report-final.md
+https://github.com/pegaslint/laniakea-independent-evaluation/blob/fba1bc3cda554b5e96ea04e73a770ff6601a93b1/synthesis/publication/full-report-final.md
 
-https://github.com/pegaslint/laniakea-independent-evaluation/tree/76142994a1f83f03db1dfd540d08fff7b4c64b87
+https://github.com/pegaslint/laniakea-independent-evaluation/tree/fba1bc3cda554b5e96ea04e73a770ff6601a93b1
 
 The report is open to technical review against its stated evidence boundaries. Specific, source-supported corrections can be considered against the frozen snapshot, while later changes can be evaluated as later changes. This post does not ask readers to adopt or reject the project, or suggest that every question has been settled.
